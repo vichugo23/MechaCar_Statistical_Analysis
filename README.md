@@ -6,4 +6,6 @@
 
 ![Screenshot 2022-11-24 at 1 15 50 AM](https://user-images.githubusercontent.com/110702997/203717910-49839dfd-e734-495c-8b2a-a70bee51fbd2.png)
 
-- According to the summary statistics, **vehicle length** and **ground clearance**, have a significant impact on the gas mileage. Meaning that these coefficients provide a non-random amount of variance to the mpg values in the dataset.
+- According to the summary statistics, **vehicle length** and **ground clearance**, have a significant impact on the gas mileage. Meaning that these coefficients provide a non-random amount of variance to the mpg values in the dataset. 
+- You can say that the slope of the multiple linear model is not zero. You can determine this by looking at the p-value. The **p-value: 5.35e-11** which is smaller than the assumed significance level of .05%. With this we can reject our null hypothesis.
+- From this linear model we can use about 71% predictions to determine MPG. We get this percentage by looking at the r-squared value which was **00.7149**.
