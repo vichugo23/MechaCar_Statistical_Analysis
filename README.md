@@ -15,8 +15,10 @@
 
 ## Summary Statistics on Suspension Coils
 
-Here is the ** Total Summary ** 
+Here is the **Total Summary** 
+
 ![Screenshot 2022-11-24 at 4 28 27 PM](https://user-images.githubusercontent.com/110702997/203870362-e542f6a0-5989-4dde-a421-63f93fc378c1.png)
 
-This is the ** Summary by Lot**
+This is the **Summary by Lot**
+
 ![Screenshot 2022-11-24 at 4 29 35 PM](https://user-images.githubusercontent.com/110702997/203870435-3f77ae4a-1b5e-41d9-8135-184bf3dedb86.png)
