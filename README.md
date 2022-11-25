@@ -27,6 +27,20 @@ If you look at the whole summary it shows that the manufacturing data does meet 
 
 ## T-Tests on Suspension Coils
 Here is a t-test done on the sample that was provided for us to determine if the PSI across all manufacturing lots is statistically different from the population mean of 1,500 pounds per square inch.
+
 ![Screenshot 2022-11-24 at 9 48 18 PM](https://user-images.githubusercontent.com/110702997/203897571-0efb68b8-be09-4c3a-9c48-d10c7d5104c0.png)
+
+T-Test for lot 1
+
+![Screenshot 2022-11-24 at 9 53 58 PM](https://user-images.githubusercontent.com/110702997/203898091-c4bb82b4-ce1d-4124-80ef-29ddfee6a06d.png)
+
+T-Test for lot 2
+
+![Screenshot 2022-11-24 at 9 54 30 PM](https://user-images.githubusercontent.com/110702997/203898145-3a6baf80-3eb2-4557-8874-f1567b5af799.png)
+
+T-Test for lot 3
+
+![Screenshot 2022-11-24 at 9 55 05 PM](https://user-images.githubusercontent.com/110702997/203898209-5cac5d21-cb58-44af-8783-69cbfdf64c6a.png)
+
 
 
