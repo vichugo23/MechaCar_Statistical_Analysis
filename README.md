@@ -46,5 +46,7 @@ By looking at the first t-test that was done for all the lots we can see the **m
 Now when you look at each lot individually it tells you a different story. Lot 1 has the mean of 1500 and p-value of 1. So we cannot reject the null hypothesis that there is no statistical difference between the sample mean and the population mean. Lot 2 is almost the same with the mean of 1500.2 and a p-value of .6072. Again there is not enough evidence to reject the null hypothesis. The sample mean and population mean are similar. Lot 3 on the other hand has a sample mean of 1496.14 with a p-value of .04168. The p-value is lower than the common significance level of .05. This means we can reject the null hypotheis and the sample mean and population mean are statistically different.
 
 
+## Study Design: MechaCar vs Competition
+
 
 
