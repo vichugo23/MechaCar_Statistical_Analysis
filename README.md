@@ -43,6 +43,8 @@ T-Test for lot 3
 ![Screenshot 2022-11-24 at 9 55 05 PM](https://user-images.githubusercontent.com/110702997/203898209-5cac5d21-cb58-44af-8783-69cbfdf64c6a.png)
 
 By looking at the first t-test that was done for all the lots we can see the **mean of the sample is 1498.78**. With a **p-Value of 0.06** which is higher than the common significance level of 0.05. There is **NOT enough evidence to support rejecting the null hypothesis.** This indicates the mean of all three of the manufacturing lots are statistically similar to the population mean of 1500.
+Now when you look at each lot individually it tells you a different story. Lot 1 has the mean of 1500 and p-value of 1. So we cannot reject the null hypothesis that there is no statistical difference between the sample mean and the population mean. Lot 2 is almost the same with the mean of 1500.2 and a p-value of .6072. Again there is not enough evidence to reject the null hypothesis. The sample mean and population mean are similar. Lot 3 on the other hand has a sample mean of 1496.14 with a p-value of .04168. The p-value is lower than the common significance level of .05. This means we can reject the null hypotheis and the sample mean and population mean are statistically different.
+
 
 
 
