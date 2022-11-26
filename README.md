@@ -48,5 +48,4 @@ Now when you look at each lot individually it tells you a different story. Lot 1
 
 ## Study Design: MechaCar vs Competition
 
-
-
+Now we can come up with a statistical study to show how MechaCars performs against the competition. First we would have to know which metrics or variables we would use in our study to make the comparison. For our independent variables we would include: MPG(city and highway), wether its AWD,FWD, or RWD, cost, maintanence cost, engine type, and safety ratings. Our null hypothesis (Ho): MechaCar is priced correctly based on its performance of key factors for its type. The Alternative Hypothesis(Ha): MechaCar is not priced correctly based on performance of key factors for its type. With all of this given into consideration we would run a **mulptiple linear regression** test to determine which of these variables have the highest correlation with the selling price of the mechacars. Some of these variables that were mentioned may not have a big impact on the price and thats what the multiple linear regression will help us find out.
